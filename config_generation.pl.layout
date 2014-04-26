@@ -1,0 +1,1 @@
+hq_to_generate(NumberOfDS, NumberOfBindings, NumberOfJoins, NumberOfFilterings, NumberOfBlockingProjetions, NumberOfNonBlockingProjections).
