@@ -11,5 +11,5 @@
 :-initialization(consult('utils.pl')).
 :-initialization(consult('derivation.pl')).
 :-initialization(consult('merge_function.pl')).
-:-initialization(consult('config_generation.pl')).
-:-initialization(consult('run_generation.pl')).
+:-initialization(consult('config_SynHQGen.pl')).
+:-initialization(consult('synHQGenerator.pl')).
